@@ -1,0 +1,2 @@
+1 order_item中的coupon_id删除
+2 payment中加入了if_deposit字段，用来判断支付的是否为定金

@@ -1,0 +1,45 @@
+{
+  "errno":0,
+  "data":{
+    "total":17231,
+    "pages":5744,
+    "pageSize":3,
+    "page":1,
+    "list":[
+      {
+        "id": 1,
+        "userName": "47727812032",
+        "realName": "16986478322",
+        "mobile": "B2AAF092253B2306F8814C627210D7E2",
+        "email": null,
+        "gender": "0",
+        "birthday": null,
+        "gmtCreate": "2020-11-29T21:10:28",
+        "gmtModified": "2020-11-29T21:10:28"
+      },
+      {
+        "id": 2,
+        "userName": "95214708331",
+        "realName": "87679628271",
+        "mobile": "13959288888",
+        "email": null,
+        "gender": "0",
+        "birthday": null,
+        "gmtCreate": "2020-11-29T21:10:28",
+        "gmtModified": "2020-11-29T21:10:28"
+      },
+      {
+        "id": 3,
+        "userName": "79529177657",
+        "realName": "13034659915",
+        "mobile": "13959288888",
+        "email": null,
+        "gender": "0",
+        "birthday": null,
+        "gmtCreate": "2020-11-29T21:10:28",
+        "gmtModified": "2020-11-29T21:10:28"
+      }
+    ]
+  },
+  "errmsg":"成功"
+}

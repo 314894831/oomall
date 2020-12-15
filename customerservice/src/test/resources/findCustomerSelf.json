@@ -1,0 +1,15 @@
+{
+  "errno": 0,
+  "data": {
+    "id": 10,
+    "userName": "75935640349",
+    "realName": "47620521437",
+    "mobile": "13959288888",
+    "email": null,
+    "gender": "0",
+    "birthday":null,
+    "gmtCreate": "2020-11-29T21:10:28",
+    "gmtModified": "2020-11-29T21:10:28"
+  },
+  "errmsg": "成功"
+}

@@ -1,0 +1,1 @@
+1 删去了share_activity中state的赋值

@@ -1,0 +1,23 @@
+{
+  "errno":0,
+  "data":{
+    "total":1,
+    "pages":1,
+    "pageSize":3,
+    "page":1,
+    "list":[
+      {
+        "id":1,
+        "customerId":1,
+        "goodSkuId":3,
+        "skuName":null,
+        "spuName":null,
+        "quantity":10,
+        "addTime":"2021-01-01T07:00",
+        "price":10,
+        "couponActivity":null
+      }
+    ]
+  },
+  "errmsg":"成功"
+}
