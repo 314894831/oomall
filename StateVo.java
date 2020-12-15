@@ -1,19 +1,19 @@
-package cn.edu.xmu.other.model.vo.CustomerVo;
+package cn.edu.xmu.other.model.vo.AfterSaleVo;
 
-import cn.edu.xmu.other.model.bo.Customer;
+import cn.edu.xmu.other.model.bo.AfterSale;
 import lombok.Data;
 
 /**
- * 用户状态VO
- * @author Shuhao Peng
- * @date 2020/12/03 17:15
+ * 售后状态VO
+ * @author Yhr3309
+ * @date 2020/12/7 18:41
  */
 @Data
 public class StateVo {
     private Long Code;
 
     private String name;
-    public StateVo(Customer.State state){
+    public StateVo(AfterSale.State state){
         Code=Long.valueOf(state.getCode());
         name=state.getDescription();
     }
